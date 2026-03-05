@@ -17,5 +17,5 @@ function sumNumbers(n) {
 // console.log(sumNumbers(1000));
 // console.log(sumNumbers(0));
 
-// function to print multiplication table
+
 
